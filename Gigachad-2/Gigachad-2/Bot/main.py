@@ -68,4 +68,4 @@ async def uptime(ctx):
             await ctx.reply("Current uptime: " + text)
 
 if __name__ == '__main__':
-    bot.run('MTE1NjU5NjQzOTQ1MTk2MzQxNA.G8RPS3.GsEZbKE9FmAUAew_gpjs-I2Rdw0Zr4hmoVoFXg')
+    bot.run('TOKEN')
